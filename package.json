@@ -1,0 +1,23 @@
+{
+  "name": "devpzinho-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --passWithNoTests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Milchelle: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@github.com/Milchelle/devpzinho.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Milchelle/devpzinho/issues"
+  },
+  "homepage": "https://github.com/Milchelle/devpzinho#readme",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
+}
